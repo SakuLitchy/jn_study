@@ -1,0 +1,1 @@
+<view class="content"><text class="score">分数：</text><view class="errorSubject"><navigator url="/pages/setting/errorSubject"><button class="title" type="default">查看错题记录表</button></navigator></view></view>

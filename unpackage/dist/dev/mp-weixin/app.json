@@ -1,0 +1,39 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/login/login",
+        "pages/setting/setting",
+        "pages/exam/exam",
+        "pages/score/score",
+        "pages/setting/errorSubject"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationBarTextStyle": "white",
+        "navigationBarTitleText": "uni-app",
+        "navigationBarBackgroundColor": "#3399FF",
+        "backgroundColor": "#F8F8F8"
+    },
+    "tabBar": {
+        "color": "#999999",
+        "selectedColor": "#1ca1e9",
+        "backgroundColor": "",
+        "borderStyle": "white",
+        "list": [
+            {
+                "text": "首页",
+                "pagePath": "pages/login/login",
+                "iconPath": "static/tab/gongNeng1.png",
+                "selectedIconPath": "static/tab/gongneng01.png"
+            },
+            {
+                "text": "设置",
+                "pagePath": "pages/setting/setting",
+                "iconPath": "static/tab/yonghu1.png",
+                "selectedIconPath": "static/tab/yonghu01.png"
+            }
+        ]
+    },
+    "usingComponents": {},
+    "sitemapLocation": "sitemap.json"
+}

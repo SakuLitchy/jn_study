@@ -1,0 +1,23 @@
+
+.content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.logo {
+	height: 200rpx;
+	width: 200rpx;
+	margin-top: 130rpx;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50rpx;
+}
+.log-input{
+	height: 100rpx;
+	border-bottom: 1rpx solid #DDDDDD;
+}
+.input-fa{
+	padding:40rpx 40rpx 40rpx 40rpx
+}
+

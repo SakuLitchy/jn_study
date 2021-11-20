@@ -1,0 +1,47 @@
+
+.header{
+	height: 25px;
+	width: 100%;
+	background: #C0C0C0;
+}
+.leftTime{
+	float: left;
+	color: white;
+	font-weight: 400;
+	font-size: 13px;
+}
+.rightTime{
+	float: right;
+	color: white;
+	font-weight: 400;
+	font-size: 13px;
+}
+.subject{
+	text-align: center;
+}
+.page{
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	background-color: #ffffff;
+	min-height: 100%;
+	height: auto;
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+.answer{
+	margin-left: 0px;
+	font-size: 15px;
+	font-weight: 400;
+}
+.subjectStyle{
+	margin: 15px 20px;
+	border: 2px solid pink;
+	border-radius: 10px;
+	padding: 5px 5px;
+}
+.tijiao{
+	margin: 15px 20px;
+}
+
